@@ -48,19 +48,19 @@ password-complexity-checker/
    ```
    
 2. **Give path to the project directory**   
-  ```bash
+   ```bash
    cd PRODIGY_CS_03-main
    ```
 
-**Create a virtual environment (optional but recommended):** 
-  ```
-  python3 -m venv venv
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
-  ```
+   **Create a virtual environment (optional but recommended):** 
+   ```
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 3. **Install required packages**
-  ```bash
-  pip install flask requests
-  ```
+   ```bash
+    pip install flask requests
+   ```
 
 4. **Run the Flask App**
    ```bash
